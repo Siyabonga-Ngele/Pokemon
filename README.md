@@ -13,7 +13,8 @@ I utilized the PokeAPI to fetch Pokémon data by making API requests using the H
 I create a user interface for interacting with the program. This interface is a command-line interface (CLI) implemented in C#.
 
 ### Displaying Pokémon Information:
-I display Pokémon information, such as the name, weight, height, and other attributes, in a tabular format in the console. The DisplayList method is responsible for showing a list of Pokémon with their details.
+- I display Pokémon information, such as the name, weight, height, and other attributes, in a tabular format in the console. The DisplayList method is responsible for showing a list of Pokémon with their details.
+- I also display detailed stats of each pokemon when an indivdual pokemon is selected using the printCard method in the application.
 
 ### Filtering:
 - I implement a filtering system that allows users to filter Pokémon based on different criteria. Users can filter Pokémon by name and weight, as indicated by the "Filter by Name" and "Filter by Weight" options. This filtering allows users to narrow down the list of displayed Pokémon based on their preferences.
