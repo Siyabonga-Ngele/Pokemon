@@ -22,6 +22,7 @@ I create a user interface for interacting with the program. This interface is a 
 
 ### Filtering:
 - I implement a filtering system that allows users to filter Pokémon based on different criteria. Users can filter Pokémon by name and weight, as indicated by the "Filter by Name" and "Filter by Weight" options. This filtering allows users to narrow down the list of displayed Pokémon based on their preferences.
+- Side note: these functions require optimization as they seek to view the details of all 1000+ pokemon which results in long filtering times
 
 ### User Interaction:
 
